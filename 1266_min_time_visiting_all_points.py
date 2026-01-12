@@ -15,3 +15,14 @@ class Solution:
             time += max(dx, dy)
 
         return time
+
+
+"""
+What if....
+what if we don't need to visit points in order? 
+What if we can choose whatever point to visit? 
+
+How should we find the minimum time to visit every point?
+
+Điều này sẽ làm bài toán trở nên siêu khó 
+"""
